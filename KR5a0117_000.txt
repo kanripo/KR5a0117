@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 黃帝陰符經註
-#+DATE: 2015-08-28 23:37:52
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
