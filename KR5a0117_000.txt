@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 黃帝陰符經註
-#+DATE: 2015-08-28 23:37:52
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-28 23:37:51.464319
+#+TITLE: 黃帝陰符經注
+#+PROPERTY: DZID  DZ0116
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—777 一卷 洞真部玉訣類
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
